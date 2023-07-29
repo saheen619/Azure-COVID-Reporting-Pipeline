@@ -1,0 +1,14 @@
+ECDC Website for Covid-19 Data - https://www.ecdc.europa.eu/en/covid-19/data
+
+Euro Stat Website for Population Data - https://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00010.tsv.gz
+
+
+docs on pre-deployment and post-deployment script for ADF
+
+https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-sample-script
+
+
+
+Automated publishing for continuous integration and delivery
+
+https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-improvements
